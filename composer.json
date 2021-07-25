@@ -1,0 +1,17 @@
+{
+    "name": "jhonatan/php",
+    "autoload": {
+        "psr-4": {
+            "Jhonatan\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhonatan Carvalho",
+            "email": "jhonatancarvalhotorres12@gmail.com"
+        }
+    ],
+    "require": {
+        "wead/digital-cep": "^1.0"
+    }
+}
